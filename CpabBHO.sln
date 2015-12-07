@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CpabBHO", "CpabBHO\CpabBHO.vdproj", "{2E03298B-E138-4A5F-9430-AE087B0AD406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E03298B-E138-4A5F-9430-AE087B0AD406}.Debug|Default.ActiveCfg = Debug
+		{2E03298B-E138-4A5F-9430-AE087B0AD406}.Debug|Default.Build.0 = Debug
+		{2E03298B-E138-4A5F-9430-AE087B0AD406}.Release|Default.ActiveCfg = Release
+		{2E03298B-E138-4A5F-9430-AE087B0AD406}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
